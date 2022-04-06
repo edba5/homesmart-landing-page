@@ -15,19 +15,6 @@ In this video, I'll help you get started with TailwindCSS.
 
 ---------------------------------------
 
-⏲️ Timestamps ⏲️
-0:00 Introduction
-2:24 Tailwind CSS Basics
-12:32 Project Setup
-16:50 Navigation Menubar
-38:35 Header
-42:50 Card Section
-53:22 Partner Section
-57:48 Home CTA Section
-1:05:18 Form Section
-
----------------------------------------
-
 🌐 Connect With Me 🌐 
 - Website: https://codinginpublic.dev
 - Blog: https://chrispennington.blog
