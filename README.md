@@ -1,3 +1,5 @@
+YouTube Video: https://youtu.be/xpGNcQDmV2A
+
 In this video, I'll help you get started with TailwindCSS.
 1. I'll give you a basic overview of how Tailwind works.
 2. Show you how to set up the project using ViteJS and PostCSS.
